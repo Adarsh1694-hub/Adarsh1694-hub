@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adarsh
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning on Big Data using big query
+- 💞️ I’m looking to collaborate on Machine learning with python
+- 📫 How to reach me https://www.linkedin.com/in/adarsh-kumar-834b481b9/
